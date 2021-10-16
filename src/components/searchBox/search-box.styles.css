@@ -6,4 +6,7 @@
   width: 150px;
   line-height: 30px;
   margin-bottom: 30px;
+  position: relative;
+  left:50%;
+  transform:translate(-50%)
 }
